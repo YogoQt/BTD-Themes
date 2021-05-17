@@ -27,7 +27,6 @@
 	--linkcolor: 				0,176,244;				/*	Link Color			 - 	default:	0,176,244		 - 	hex:	#00b0f4		*/
 	--mentioncolor: 			250,166,26;				/*	Highlight Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--successcolor: 			87,242,135;				/*	Success Color		 - 	default:	87,242,135		 - 	hex:	#57f287		*/
-	--warningcolor: 			250,166,26;				/*	Warning Color		 - 	default:	250,166,26		 - 	hex:	#faa61a		*/
 	--dangercolor:  			237,66,69;				/*	Danger Color		 - 	default:	237,66,69		 - 	hex:	#ed4245		*/
 	
 	--textbrightest: 			255,255,255;			/*	Text Color 1		 - 	default:	255,255,255		 - 	hex:	#ffffff		*/
