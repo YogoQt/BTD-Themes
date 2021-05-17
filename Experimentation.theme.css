@@ -6,15 +6,15 @@
  * @authorId 601389635981017088
  * @invite 
  * @donate
- * @source 
- * @updateurl
+ * @source https://github.com/YogoQt/BTD-Themes/blob/main/Experimentation.theme.css
+ * @updateurl https://github.com/YogoQt/BTD-Themes/blob/main/Experimentation.theme.css
  * @patreon 
  * @website 
  */
 
 /* To change the colors, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(Experimentation.theme.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
 
 /* All colors are in RGB format (red, green, blue) use: https://www.google.com/search?q=colorpicker	*/
 
